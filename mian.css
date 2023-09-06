@@ -1,0 +1,5 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.boxShadowMG{
+    box-shadow: 2px 4px 9px 1px hsl(0deg 0% 0% / 5%);}
